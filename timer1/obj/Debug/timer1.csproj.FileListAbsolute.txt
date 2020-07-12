@@ -1,0 +1,10 @@
+C:\Users\student.LAN\source\repos\timer1\timer1\bin\Debug\timer1.exe.config
+C:\Users\student.LAN\source\repos\timer1\timer1\bin\Debug\timer1.exe
+C:\Users\student.LAN\source\repos\timer1\timer1\bin\Debug\timer1.pdb
+C:\Users\student.LAN\source\repos\timer1\timer1\obj\Debug\timer1.csprojAssemblyReference.cache
+C:\Users\student.LAN\source\repos\timer1\timer1\obj\Debug\timer1.Form1.resources
+C:\Users\student.LAN\source\repos\timer1\timer1\obj\Debug\timer1.Properties.Resources.resources
+C:\Users\student.LAN\source\repos\timer1\timer1\obj\Debug\timer1.csproj.GenerateResource.cache
+C:\Users\student.LAN\source\repos\timer1\timer1\obj\Debug\timer1.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\source\repos\timer1\timer1\obj\Debug\timer1.exe
+C:\Users\student.LAN\source\repos\timer1\timer1\obj\Debug\timer1.pdb
